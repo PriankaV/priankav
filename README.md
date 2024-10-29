@@ -4,7 +4,7 @@ My name is Prianka and I am currently interested in Data Science!
 
 - 🔭 I’m currently developing a user-friendly portal to streamline communication between property managers and renters.
 - 🌱 I’m currently learning Supply Chain Optimization and trying to do related projects.
-
+- 👯 I’m looking to collaborate on more hackathons, reach out to me on LinkedIn!
 <!--
 **PriankaV/priankav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
