@@ -1,10 +1,11 @@
-## Hi there 👋
+## Hello!! 👋
 
-My name is Prianka and I am currently interested in Data Science!
+My name is Prianka and I am passionate about Data Science and other Computer Science related projects!
 
-- 🔭 I’m currently developing a user-friendly portal to streamline communication between property managers and renters.
-- 🌱 I’m currently learning Supply Chain Optimization and trying to do related projects.
-- 👯 I’m looking to collaborate on more hackathons, reach out to me on LinkedIn!
+- 🔭 I’m currently working on a **Tenant Management System (TMS)**, a web-based portal to streamline communication between property managers and renters.
+- 🌱 I’m learning about **Supply Chain Optimization** and diving into related projects to apply data science to real-world problems.
+- 👯 ’m actively looking to collaborate on hackathons and open-source projects! Feel free to reach out to me on LinkedIn.
+- 💡 I love solving problems with data and building tools that create efficiency and make life easier.
 <!--
 **PriankaV/priankav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
