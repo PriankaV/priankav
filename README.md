@@ -1,8 +1,8 @@
 ## Hello!! 👋
 
-My name is Prianka and I am passionate about Data Science and other Computer Science related projects!
+My name is Prianka and I am passionate about related projects in Computer Science and Data Science!
 
-- 🔭 I’m currently working on a **Tenant Management System (TMS)**, a web-based portal to streamline communication between property managers and renters.
+- 🔭 I’m working on a **Tenant Management System (TMS)**, a web-based portal to streamline communication between property managers and renters.
 - 🌱 I’m learning about **Supply Chain Optimization** and diving into related projects to apply data science to real-world problems.
 - 👯 I’m actively looking to collaborate on hackathons and open-source projects! Feel free to reach out to me on LinkedIn.
 - 💡 I love solving problems with data and building tools that create efficiency and make life easier.
