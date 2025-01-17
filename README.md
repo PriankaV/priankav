@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prianka Vikram</h1>
-<h3 align="center">A passionate developer learning more about Data Science</h3>
+<h3 align="center">a passionate developer learning more about Software and Data Science!</h3>
 
 - 🔭 I’m working on a **Finance Management System**, an app that lets users focus all their financial activities in one place with the use of AI.
 - 🌱 I’m learning about **Supply Chain Optimization** and diving into related projects to apply data science to real-world problems.
