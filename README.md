@@ -3,7 +3,7 @@
 
 - 🔭 I recently collabrated on **WiseFin**, an app that lets users focus all their financial activities in one place - Check it out!
 - 🌱 I’m learning about **Supply Chain Optimization** and diving into related projects to apply data science to real-world problems.
-- 👯 I’m actively looking to collaborate on hackathons and open-source projects! Feel free to reach out to me on LinkedIn.
+- 👯 I’m actively working on two projects, each with an amazing group of people. I hope both of the projects will make an impact!
   
 <p align="left">
 </p>
