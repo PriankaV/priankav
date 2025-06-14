@@ -3,7 +3,8 @@
 
 - 🔭 I recently collabrated on **WiseFin**, an app that lets users focus all their financial activities in one place - Check it out!
 - 🌱 I’m learning about **Supply Chain Optimization** and diving into related projects to apply data science to real-world problems.
-- 👯 I’m actively working on two projects, each with an amazing group of people. I hope both of the projects will make an impact!
+- 👯 I’m actively working on redesigning a a website to suit user needs with 2 amazing coders.
+- 💡 My team and I completed a Design Hackathon hosted by CodePath and Amazon; our project is on designign a website and app that addresses food access challenges.
   
 <p align="left">
 </p>
