@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prianka Vikram</h1>
+<h1 align="center">Hello, I'm Prianka Vikram</h1>
 <h3 align="center">a passionate developer learning more about Software and Data Science!</h3>
 
 - 🔭 I recently collabrated on **WiseFin**, an app that lets users focus all their financial activities in one place - Check it out!
