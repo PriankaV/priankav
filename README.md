@@ -30,6 +30,9 @@
   </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
   </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+<h1 align="center">Checkout some Portfolios I've made!</h1>
+- https://github.com/PriankaV/RyanHoang-portfolio
+- https://krash00.github.io/Portfolio/
 
 <!--## Hello!! 👋 My name is Prianka Vikram
 
