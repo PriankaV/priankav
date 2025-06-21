@@ -35,8 +35,9 @@
 ----- 
 <h3 align="Left">Checkout some Portfolios I've made!</h3>
 
-1. https://github.com/PriankaV/RyanHoang-portfolio
+1. https://priankav.github.io/RyanHoang-portfolio/
 2. https://krash00.github.io/Portfolio/
+3. 
 
 <!--## Hello!! 👋 My name is Prianka Vikram
 
