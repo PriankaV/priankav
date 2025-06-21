@@ -1,14 +1,16 @@
 <h1 align="center">Hello, I'm Prianka Vikram</h1>
 <h3 align="center">a passionate developer learning more about Software and Data Science!</h3>
 
+----- 
+
 - 🔭 I recently collabrated on **WiseFin**, an app that lets users focus all their financial activities in one place - Check it out!
 - 🌱 I’m learning about **Supply Chain Optimization** and diving into related projects to apply data science to real-world problems.
 - 👯 I’m actively working on redesigning a a website to suit user needs with 2 amazing coders.
 - 💡 My team and I completed a Design Hackathon hosted by CodePath and Amazon; our project is a website and app that addresses food access challenges.
-  
+
+----- 
 <p align="left">
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -30,9 +32,11 @@
   </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
   </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<h1 align="center">Checkout some Portfolios I've made!</h1>
-- https://github.com/PriankaV/RyanHoang-portfolio
-- https://krash00.github.io/Portfolio/
+----- 
+<h3 align="Left">Checkout some Portfolios I've made!</h3>
+
+1. https://github.com/PriankaV/RyanHoang-portfolio
+2. https://krash00.github.io/Portfolio/
 
 <!--## Hello!! 👋 My name is Prianka Vikram
 
